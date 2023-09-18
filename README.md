@@ -2,7 +2,7 @@
 
 ## Requiments
 Run the code in Colab Google platform is the easiest way.
-To run in local, you must has these libraries.
+To run in local, you must installed these libraries.
 ```
 os
 random

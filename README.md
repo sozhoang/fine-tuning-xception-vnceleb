@@ -8,4 +8,4 @@ After the training process, the model obtained evaluation results as follows:
 
 ![result](result.png)
 
-The checkpoint model after 25 epochs has been released in this repository.
+The checkpoint model after 25 epochs has been released in [here](https://drive.google.com/drive/folders/1Gpcth0OSgYP84T9KUe4ebWWBrb7SIJ-R?usp=sharing).

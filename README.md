@@ -1,7 +1,17 @@
 # Fine-tuning Xception model with VN-Celeb dataset
 
 ## Requiments
-
+Run the code in Colab Google platform is the easiest way.
+To run in local, you must has these libraries.
+```
+os
+random
+numpy
+seaborn
+tesorflow
+matplotlib
+sklearn
+```
 
 ## Dataset and model
 
